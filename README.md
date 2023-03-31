@@ -4,8 +4,6 @@ A simple command-line Pomodoro timer built with Python. It includes visual progr
 
 ![Screenshot](screenshot.png)
 
-## English
-
 ### Prerequisites
 
 - Python 3.6 or higher
@@ -15,12 +13,15 @@ A simple command-line Pomodoro timer built with Python. It includes visual progr
 
 1. Clone the repository:
 
-git clone git@github.com:fabiocore/pomodoropy.git
-cd pomodoropy
+```bash
+git clone git@github.com:fabiocore/pomodoropy.git && cd pomodoropy
+```
 
 2. Install the required packages:
 
+```bash
 pip install -r requirements.txt
+```
 
 ### Usage
 
@@ -30,31 +31,3 @@ Run the timer with one of the following options:
 - `./pomodoro.py short-break` for a 7.5-minute short break timer
 - `./pomodoro.py long-break` for a 15-minute long break timer
 - `./pomodoro.py XX` for a custom XX-minute timer
-
-
-## Português
-
-### Pré-requisitos
-
-- Python 3.6 ou superior
-- Pip
-
-### Instalação
-
-1. Clone o repositório:
-
-git clone git@github.com:fabiocore/pomodoropy.git
-cd pomodoropy
-
-2. Instale os pacotes necessários:
-
-pip install -r requirements.txt
-
-### Utilização
-
-Execute o temporizador com uma das seguintes opções:
-
-- `./pomodoro.py focus` para um temporizador de foco de 25 minutos
-- `./pomodoro.py short-break` para um temporizador de pausa curta de 7,5 minutos
-- `./pomodoro.py long-break` para um temporizador de pausa longa de 15 minutos
-- `./pomodoro.py XX` para um temporizador personalizado de XX minutos
