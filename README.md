@@ -2,6 +2,7 @@
 
 A simple command-line Pomodoro timer built with Python. It includes visual progress tracking, sound notifications, and desktop notifications on Windows and macOS.
 
+![Screenshot](screenshot.png)
 
 ## English
 
@@ -14,8 +15,8 @@ A simple command-line Pomodoro timer built with Python. It includes visual progr
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/pomodoro-timer.git
-cd pomodoro-timer
+git clone git@github.com:fabiocore/pomodoropy.git
+cd pomodoropy
 
 2. Install the required packages:
 
@@ -42,8 +43,8 @@ Run the timer with one of the following options:
 
 1. Clone o repositório:
 
-git clone https://github.com/your_username/pomodoro-timer.git
-cd pomodoro-timer
+git clone git@github.com:fabiocore/pomodoropy.git
+cd pomodoropy
 
 2. Instale os pacotes necessários:
 
